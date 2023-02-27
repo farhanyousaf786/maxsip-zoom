@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418288008295",
+    "project_id": "maxsip-zoom-786",
+    "storage_bucket": "maxsip-zoom-786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418288008295:android:aa31a9a216166f36d3a8c2",
+        "android_client_info": {
+          "package_name": "com.maxsip.zoom.maxsip_zoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418288008295-94qn69nara9g0lgp0ta2ni10m7niva04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8kEA2Z-3PN89ll7Ty-MnmfI6QsLeXtsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418288008295-94qn69nara9g0lgp0ta2ni10m7niva04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
